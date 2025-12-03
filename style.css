@@ -1,0 +1,119 @@
+
+body {
+  font-family: 'Abhaya Libre', serif;
+  background: #ffffff;
+  color: #000;
+}
+
+
+.logo {
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: -2px;
+}
+
+.nav-link {
+  font-size: 18px;
+  font-weight: 600;
+  font-family: 'Abhaya Libre', serif;
+}
+
+
+.intro {
+  font-family: 'Abhaya Libre', serif;
+  font-weight: 500;
+  font-size: 26px;
+  margin-bottom: -10px;
+}
+
+.title-script {
+  font-family: 'Caramel', cursive;
+  font-size: 95px;
+  color: #2A4FBF;
+}
+
+.sub {
+  font-family: 'Abhaya Libre', serif;
+  font-weight: 500;
+  font-size: 20px;
+  color: #2A4FBF;
+}
+
+.flower {
+  width: 140px;
+  margin-top: -20px;
+}
+
+
+.about-title {
+  font-family: 'Abhaya Libre', serif;
+  font-weight: 600;
+  color: #2A4FBF;
+}
+
+.about-text {
+  font-family: 'Abhaya Libre', serif;
+  font-weight: 500;
+}
+
+.box-title {
+  font-family: 'Abhaya Libre', serif;
+  font-weight: 600;
+  color: #2A4FBF;
+}
+
+.about-img {
+  border-radius: 8px;
+}
+
+
+.projects-title {
+  font-family: 'Abhaya Libre', serif;
+  font-weight: 800;
+  color: #2A4FBF;
+}
+
+.project-img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.project-name {
+  font-family: 'Abhaya Libre', serif;
+  font-weight: 800;
+  color: #2A4FBF;
+}
+
+.project-sub {
+  font-family: 'Abhaya Libre', serif;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+
+.case-text {
+  font-family: 'Abhaya Libre', serif;
+  font-weight: 500;
+  font-size: 18px;
+  color: #2A4FBF;
+  line-height: 1.6;
+}
+
+
+.contact-big {
+  font-family: 'Aclonica', sans-serif;
+  font-size: 60px;
+  font-weight: normal;
+}
+
+.title-script-work {
+  font-family: 'Alex Brush', cursive;
+  font-size: 100px;
+  color: #2A4FBF;
+}
+
+.contact-text,
+.email {
+  font-family: 'Abhaya Libre', serif;
+  font-weight: 500;
+}
